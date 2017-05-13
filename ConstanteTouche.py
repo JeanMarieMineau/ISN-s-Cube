@@ -1,0 +1,25 @@
+from pygame.locals import K_a
+#TOUCHE_a = 113
+TOUCHE_a = K_a
+TOUCHE_z = 119
+TOUCHE_e = 101
+TOUCHE_r = 114
+TOUCHE_t = 116
+TOUCHE_y = 121
+TOUCHE_u = 117
+TOUCHE_i = 105
+TOUCHE_o = 111
+TOUCHE_p = 112
+
+TOUCHE_q = 97
+TOUCHE_s = 115
+TOUCHE_d = 100
+TOUCHE_f = 102
+TOUCHE_g = 103
+TOUCHE_h = 104
+TOUCHE_j = 106
+TOUCHE_k = 107
+TOUCHE_l = 108
+TOUCHE_m = 59
+
+TOUCHE_b = 98
